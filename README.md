@@ -1,7 +1,7 @@
 # ASGNet
 ASGNet: Adaptive Spectrum Guidance Network for Automatic Polyp Segmentation
 
-This paper is currently in the Under Review stage. Based on the feedback, there might be minor adjustments to the code. We will continue to update it after the paper is accepted.
+This paper is currently in the under review stage. Based on the feedback, there might be minor adjustments to the code. We will continue to update it after the paper is accepted.
 
 If you are interested in our work, please do not hesitate to contact us at Sunyg@njust.edu.cn via email.
 
