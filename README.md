@@ -1,7 +1,8 @@
-# ASGNet
-ASGNet: Adaptive Spectrum Guidance Network for Automatic Polyp Segmentation (TCSVT, 2026)
+# (TCSVT 2026) ASGNet: Adaptive Spectrum Guidance Network for Automatic Polyp Segmentation
 
-This paper is currently in the under review stage. Based on the feedback, there might be minor adjustments to the code. We will continue to update it after the paper is accepted.
+Yanguang Sun, Hengmin Zhang, Jianjun Qian, Jian Yang, Lei Luo<br />
+
+Our work has been accepted for **TCSVT 2026**. The relevant code will be open sourced.
 
 If you are interested in our work, please do not hesitate to contact us at Sunyg@njust.edu.cn via email.
 
