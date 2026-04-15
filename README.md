@@ -1,5 +1,5 @@
 # ASGNet
-ASGNet: Adaptive Spectrum Guidance Network for Automatic Polyp Segmentation
+ASGNet: Adaptive Spectrum Guidance Network for Automatic Polyp Segmentation (TCSVT, 2026)
 
 This paper is currently in the under review stage. Based on the feedback, there might be minor adjustments to the code. We will continue to update it after the paper is accepted.
 
