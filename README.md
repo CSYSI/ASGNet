@@ -13,6 +13,13 @@ If you are interested in our work, please do not hesitate to contact us at Sunyg
 <img width="847" height="563" alt="image" src="https://github.com/user-attachments/assets/0875ff15-90c2-45af-b770-6a82560e16d0" />
 
 
+# Segmentation results
+
+We provide the segmentation results of the proposed ASGNet model under in Polyp Segmentation tasks.
+
+ASGNet_TCSVT26_PS [(https://pan.baidu.com/s/1RtxZra5DIFtzI9nnJ_GEjA), PIN:jmpb] 
+
+
 
 # Citation
 
