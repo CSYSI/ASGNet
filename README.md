@@ -35,7 +35,7 @@ If you use ASGNet in your research or wish to refer to the baseline results, ple
 ```
 
 ```
-@ARTICLE{11488332,
+@ARTICLE{ASGNet,
   author={Sun, Yanguang and Zhang, Hengmin and Qian, Jianjun and Yang, Jian and Luo, Lei},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={ASGNet: Adaptive Spectrum Guidance Network for Automatic Polyp Segmentation}, 
