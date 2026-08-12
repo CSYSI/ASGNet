@@ -2,7 +2,7 @@
 
 Yanguang Sun, Hengmin Zhang, Jianjun Qian, Jian Yang, Lei Luo<br />
 
-Our work has been accepted for **TCSVT 2026**. The relevant code will be open sourced.
+Our work has been accepted for **TCSVT 2026**. The relevant code has been open sourced.
 
 If you are interested in our work, please do not hesitate to contact us at Sunyg@njust.edu.cn via email.
 
@@ -23,7 +23,7 @@ ASGNet_TCSVT26_PS [(https://pan.baidu.com/s/1RtxZra5DIFtzI9nnJ_GEjA), PIN:jmpb]
 
 # Citation
 
-If you use DPU-Former in your research or wish to refer to the baseline results, please use the following BibTeX entry.
+If you use ASGNet in your research or wish to refer to the baseline results, please use the following BibTeX entry.
 
 ```
 @article{ASGNet,
@@ -35,14 +35,14 @@ If you use DPU-Former in your research or wish to refer to the baseline results,
 ```
 
 ```
-@ARTICLE{ASGNet,
+@ARTICLE{11488332,
   author={Sun, Yanguang and Zhang, Hengmin and Qian, Jianjun and Yang, Jian and Luo, Lei},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={ASGNet: Adaptive Spectrum Guidance Network for Automatic Polyp Segmentation}, 
   year={2026},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={36},
+  number={8},
+  pages={11876-11887},
   doi={10.1109/TCSVT.2026.3685209}}
 
 ```
